@@ -9,3 +9,5 @@ description: Индивидуальный предприниматель в Ис
 - [Личный кабинет segurdad social](https://portal.seg-social.gob.es/wps/myportal/importass/importass/personal)
 
 - [Гайд как сделать электронную цифровую подпись FNMT](https://barcelona-startups-relocation.notion.site/How-to-get-a-Digital-Certificate-8ca4ec3ea31b43cd995bfdf2012e622a)
+
+- [Autonomo: полное руководство](https://nomadtax.es/guides)
